@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+body{
+	text-align: center;
+	background-color:#FCDDB0;
+	margin: 0px;
+}
+
+.top-container{
+	background-color: #F2DEBA;
+	margin: 0px;
+}
+.medium-container{
+	background-color: #0E5E6F;
+	margin: 0px;
+}
+.bottom-container{
+	background-color: #3A8891;
+	margin: 0px;
+}
+
+#welcoming{
+	font-family: sans-serif;
+}
