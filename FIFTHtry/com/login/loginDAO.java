@@ -8,7 +8,7 @@ import java.sql.*;
 public class loginDAO{
 	
 	String DataBase_username = "root";
-    String DataBase_passsword = "luq101-007L";
+    
 	String url = "jdbc:mysql://localhost/library";
 	Statement statement = null;
     ResultSet resultSet = null;
