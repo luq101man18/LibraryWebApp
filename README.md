@@ -8,3 +8,6 @@ Features
 - Effortless Navigation: Navigating through the app is a breeze with JSPs rendering dynamic content. With a user-friendly interface, you'll quickly find what you're looking for. Intuitive menus and clear categorization enhance the overall user experience.
 
 - Book Borrowing: Borrowing books has never been easier. Users can search for available books, view detailed information about each book through JSPs, and initiate the borrowing process with just a few clicks.
+
+
+![Alt Text](example1)
