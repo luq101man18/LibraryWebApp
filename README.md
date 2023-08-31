@@ -10,4 +10,4 @@ Features
 - Book Borrowing: Borrowing books has never been easier. Users can search for available books, view detailed information about each book through JSPs, and initiate the borrowing process with just a few clicks.
 
 
-![Alt Text](example1)
+![Alt Text](example1.png)
