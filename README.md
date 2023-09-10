@@ -9,6 +9,7 @@ Features
 
 - Book Borrowing: Borrowing books has never been easier. Users can search for available books, view detailed information about each book through JSPs, and initiate the borrowing process with just a few clicks.
 
+The app was developed in Eclipse IDE
 
 Here are images about the app:
 
